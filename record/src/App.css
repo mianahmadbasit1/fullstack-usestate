@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ color: black;
+}
+
+h1{
+  margin: 0;
+}
+.header{
+  color: white;
+  background-color:#9980FA;
+  padding: 14px;
+width: 100%;
+}
+/* for color selectio go to flatui */
+
+.form{
+  margin-top:20px ;
+}
+.data{
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+ width: 100%;
+ margin-top: 20px;  
+}
+.data_val{
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  padding: 0px 9px 0px 9px;
+align-items: center;
+}
